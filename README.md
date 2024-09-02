@@ -9,7 +9,8 @@ This code is for MQTT connection using NodeMCU to HiveMQ MQTT public broker.
 
 ## Libraries used :
 
-1. MQTT : https://github.com/knolleary/pubsubclient
+1. SimpleDHT - https://www.arduino.cc/reference/en/libraries/simpledht/
+2. MQTT - https://www.arduino.cc/reference/en/libraries/mqtt/
 
 
 HiveMQ MQTT is used as public broker (https://www.hivemq.com).
